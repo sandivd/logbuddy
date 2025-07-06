@@ -1,6 +1,5 @@
 import { useState, type FC, type ReactNode } from 'react';
-import type { NextPage } from 'next';
-import Head from 'next/head';
+
 import { Calendar, UserCheck, GlassWater, Flame, ChevronDown, X } from 'lucide-react';
 
 // Color Palette:
@@ -261,7 +260,7 @@ const BookingModal = ({ isOpen, onClose }: { isOpen: boolean, onClose: () => voi
   );
 };
 
-const LogBuddyPage: NextPage = () => {
+const LogBuddyPage = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
 
   const handleBookNowClick = () => {
@@ -274,11 +273,6 @@ const LogBuddyPage: NextPage = () => {
 
   return (
     <>
-      <Head>
-        <title>LogBuddy | A Perfect Fire. Every Time.</title>
-        <meta name="description" content="LogBuddy is the premium, on-demand service that brings the timeless comfort of a real wood-burning fire into your home, without any of the hassle." />
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
       <main className="bg-white">
         <HeroSection onBookNowClick={handleBookNowClick} />
         <HowItWorksSection />
