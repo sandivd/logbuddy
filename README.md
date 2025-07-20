@@ -2,6 +2,8 @@
 
 A modern, responsive landing page for "LogBuddy," a fictional on-demand service for building the perfect fireplace fire. This project was built to showcase modern front-end development skills using React and Tailwind CSS.
 
+[View Live Demo](https://sandivd.github.io/logbuddy/)
+
 ## ✨ Features
 
 -   **Fully Responsive Design:** Adapts seamlessly to all screen sizes, from mobile to desktop.
