@@ -151,7 +151,7 @@ const LogBuddiesSection = () => (
       <div className="text-center flex flex-col items-center">
         <img
           src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=387&auto=format&fit=crop"
-          alt="Photo of Brendan, the Hearth Whisperer"
+          alt="Brendan, the Hearth Whisperer"
           className="w-32 h-32 mb-4 rounded-full object-cover object-top border-4 border-white dark:border-stone-800 shadow-md"
         />
         <h3 className="text-xl font-bold text-stone-800 dark:text-stone-200">Brendan, the Hearth Whisperer</h3>
@@ -160,7 +160,7 @@ const LogBuddiesSection = () => (
       <div className="text-center flex flex-col items-center">
         <img
           src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=870&auto=format&fit=crop"
-          alt="Photo of Chloe, the Flame Artist"
+          alt="Chloe, the Flame Artist"
           className="w-32 h-32 mb-4 rounded-full object-cover border-4 border-white dark:border-stone-800 shadow-md"
         />
         <h3 className="text-xl font-bold text-stone-800 dark:text-stone-200">Chloe, the Flame Artist</h3>
@@ -169,7 +169,7 @@ const LogBuddiesSection = () => (
       <div className="text-center flex flex-col items-center">
         <img
           src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=387&auto=format&fit=crop"
-          alt="Photo of Marcus, the Kindling King"
+          alt="Marcus, the Kindling King"
           className="w-32 h-32 mb-4 rounded-full object-cover object-top border-4 border-white dark:border-stone-800 shadow-md"
         />
         <h3 className="text-xl font-bold text-stone-800 dark:text-stone-200">Marcus, the Kindling King</h3>
