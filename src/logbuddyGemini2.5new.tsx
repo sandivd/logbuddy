@@ -188,13 +188,13 @@ const TestimonialsSection = () => (
       <Card className="!shadow-md dark:!shadow-gray-700">
         <div className="p-8">
           <p className="text-stone-600 dark:text-stone-400 italic">"I used to think my fireplace was just a decorative hole in the wall. LogBuddy changed everything. 10/10."</p>
-          <p className="mt-4 font-bold text-stone-800 dark:text-stone-200">- Sarah K., West Village</p>
+          <p className="mt-4 font-bold text-stone-800 dark:text-stone-200">- Sarah K., Calabasas</p>
         </div>
       </Card>
       <Card className="!shadow-md dark:!shadow-gray-700">
         <div className="p-8">
           <p className="text-stone-600 dark:text-stone-400 italic">"The cleanup was immaculate. My hearth has never looked better. Worth every penny."</p>
-          <p className="mt-4 font-bold text-stone-800 dark:text-stone-200">- David L., The Suburbs</p>
+          <p className="mt-4 font-bold text-stone-800 dark:text-stone-200">- David L., Bel Air</p>
         </div>
       </Card>
     </div>
